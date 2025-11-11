@@ -1,10 +1,10 @@
 # Hi there, I'm Dippan Bhusal 👋
 
-<a href="https://github.com/dippanbhusal">
-  <img align="center" src="https://github-readme-stats.vercel.app/api?username=dippanbhusal&show_icons=true&theme=dracula&include_all_commits=true&count_private=true"/>
+<a href="https://github.com/kdippan">
+  <img align="center" src="https://github-readme-stats.vercel.app/api?username=kdippan&show_icons=true&theme=dracula&include_all_commits=true&count_private=true"/>
 </a>
-<a href="https://github.com/dippanbhusal">
- <img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=dippanbhusal&layout=compact&theme=dracula"/>
+<a href="https://github.com/kdippan">
+ <img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=kdippan&layout=compact&theme=dracula"/>
 </a>
 
 <br/>
