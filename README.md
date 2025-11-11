@@ -10,14 +10,14 @@
 <br/>
 <br/>
 
-I am a passionate Full-Stack Web Developer from India with a strong focus on building modern, responsive, and performant web applications [web:8]. I have a knack for creating seamless user experiences and am always exploring new technologies to enhance my skill set [web:7].
+I am a passionate Full-Stack Web Developer from India with a strong focus on building modern, responsive, and performant web applications. I have a knack for creating seamless user experiences and am always exploring new technologies to enhance my skill set .
 
 - 🔭 I’m currently working on a personal blog and CMS with rich media support and AI-powered features.
 - 🌱 I’m currently learning about advanced SEO techniques and AI-assisted code generation.
 - 👯 I’m looking to collaborate on open-source web development projects.
 - 🤔 I’m looking for help with optimizing complex web applications.
 - 💬 Ask me about **PWA development, SEO, and modern UI/UX design**.
-- 📫 How to reach me: [dippanbhusal.tech](https://dippanbhusal.tech)
+- 📫 How to reach me: [dippanbhusal.tech](https://dippanbhusal.tech) or [dippan.connect@gmail.com](mailto:dippan.connect@gmail.com)
 - ⚡ Fun fact: I enjoy designing logos and icons in my free time.
 
 ---
@@ -37,15 +37,15 @@ I am a passionate Full-Stack Web Developer from India with a strong focus on bui
 
 - **Personal Blog/CMS**: A feature-rich blogging platform with media uploads, theme selection, and AI-generated content summaries.
 - **Quiz App**: An interactive quiz application built with modern web technologies.
-- **Birthday Celebration Website Builder**: A tool to create personalized birthday websites.
+- **Birthday Celebration Website Builder**: A tool to create personalized birthday websites. (Private)
 - **QR Code Toolkit**: A versatile application for generating and managing QR codes.
 
 ---
 
 ### 📊 GitHub Stats
 
-![GitHub Streak](![Kdippan's Stats](https://github-readme-stats.vercel.app/api?username=Kdippan&theme=prussian&show_icons=true&hide_border=true&count_private=true))
-
+![GitHub Streak](https://github-readme-streak-stats.herokuapp.com/?user=dippanbhusal&theme=dracula)
+![Kdippan's Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=Kdippan&theme=prussian&show_icons=true&hide_border=true&layout=compact)
 <p align="center">
   <img src="https://github-profile-trophy.vercel.app/?username=dippanbhusal&theme=dracula&column=7"/>
 </p>
