@@ -6,12 +6,18 @@ I'm a first-year BSc. CSIT student from Nepal, passionate about technology, soft
 
 I enjoy turning ideas into functional products through coding, experimenting with AI tools, and exploring modern web technologies. I'm still learning, constantly improving my skills, and excited about what I can build along the way.
 
-<a href="https://github.com/kdippan">
-  <img height="165" src="https://github-readme-stats.vercel.app/api?username=kdippan&show_icons=true&theme=dracula&include_all_commits=true&count_private=true" alt="Dippan's GitHub Stats"/>
-</a>
-<a href="https://github.com/kdippan">
-  <img height="165" src="https://github-readme-stats.vercel.app/api/top-langs/?username=kdippan&layout=compact&theme=dracula" alt="Most Used Languages"/>
-</a>
+<p align="center">
+  <img
+    src="https://github-readme-stats.vercel.app/api?username=kdippan&show_icons=true&theme=dracula&hide_border=true"
+    height="165"
+    alt="Dippan's GitHub Stats"
+  />
+  <img
+    src="https://github-readme-stats.vercel.app/api/top-langs?username=kdippan&layout=compact&theme=dracula&hide_border=true"
+    height="165"
+    alt="Most Used Languages"
+  />
+</p>
 
 ---
 
