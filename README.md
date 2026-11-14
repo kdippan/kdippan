@@ -6,22 +6,18 @@ I'm a first-year BSc. CSIT student from Nepal, passionate about technology, soft
 
 I enjoy turning ideas into functional products through coding, experimenting with AI tools, and exploring modern web technologies. I'm still learning, constantly improving my skills, and excited about what I can build along the way.
 
+---
+
+## GitHub Statistics
+
 <p align="center">
-  <img
-    src="https://github-readme-stats.vercel.app/api?username=kdippan&show_icons=true&theme=dracula&hide_border=true"
-    height="165"
-    alt="Dippan's GitHub Stats"
-  />
-  <img
-    src="https://github-readme-stats.vercel.app/api/top-langs?username=kdippan&layout=compact&theme=dracula&hide_border=true"
-    height="165"
-    alt="Most Used Languages"
-  />
+  <img src="./profile/stats.svg" height="165" alt="Dippan's GitHub Stats" />
+  <img src="./profile/languages.svg" height="165" alt="Most Used Languages" />
 </p>
 
 ---
 
-### What I'm Up To
+## What I'm Up To
 
 - Studying **BSc. CSIT** and strengthening my computer science fundamentals.
 - Building websites and experimenting with ideas for practical software products.
@@ -29,7 +25,7 @@ I enjoy turning ideas into functional products through coding, experimenting wit
 - Learning and improving my skills in programming, web development, and software engineering.
 - Exploring open-source projects and looking for opportunities to collaborate and learn.
 
-### Areas of Interest
+## Areas of Interest
 
 - Software Engineering & Development
 - Full-Stack Web Development
@@ -38,7 +34,7 @@ I enjoy turning ideas into functional products through coding, experimenting wit
 - Problem Solving & Creative Development
 - Digital Marketing & SEO
 
-### Tech Stack & Tools
+## Tech Stack & Tools
 
 **Languages & Web Technologies**
 
@@ -54,13 +50,17 @@ I enjoy turning ideas into functional products through coding, experimenting wit
 ![Netlify](https://img.shields.io/badge/Netlify-00C7B7?style=for-the-badge&logo=netlify&logoColor=white)
 ![VS Code](https://img.shields.io/badge/VS_Code-007ACC?style=for-the-badge&logo=visualstudiocode&logoColor=white)
 
-### Featured Projects
+---
 
-Explore some of the things I've been working on:
+## Featured Projects
+
+I'm always experimenting with new ideas and building projects to improve my skills.
 
 **[Explore My Projects](https://www.dippan.com.np/projects)**
 
-### Let's Connect
+---
+
+## Let's Connect
 
 I'm always open to connecting with fellow developers, students, creators, and people who love building things.
 
