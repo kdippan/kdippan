@@ -16,19 +16,15 @@ jobs:
     steps:
       - uses: actions/checkout@v4
 
-      - name: Generate GitHub Stats
-        uses: h1s97x/gh-readme-card@main
-        with:
-          card: user
-          params: "username=kdippan&show_icons=true"
-          path: profile/stats.svg
-
-      - name: Generate Top Languages
-        uses: h1s97x/gh-readme-card@main
-        with:
-          card: langs
-          params: "username=kdippan&layout=compact"
-          path: profile/languages.svg
+      - name: Generate profile cards
+        run: |
+          mkdir -p profile
+          curl --fail --silent --show-error --location \
+            "https://github-readme-stats.vercel.app/api?username=kdippan&show_icons=true" \
+            --output profile/stats.svg
+          curl --fail --silent --show-error --location \
+            "https://github-readme-stats.vercel.app/api/top-langs/?username=kdippan&layout=compact" \
+            --output profile/languages.svg
 
       - name: Commit generated cards
         run: |
