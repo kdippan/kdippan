@@ -17,7 +17,7 @@ I am a passionate Full-Stack Web Developer from India with a strong focus on bui
 - 👯 I’m looking to collaborate on open-source web development projects.
 - 🤔 I’m looking for help with optimizing complex web applications.
 - 💬 Ask me about **PWA development, SEO, and modern UI/UX design**.
-- 📫 How to reach me: [dippanbhusal.tech](https://dippanbhusal.tech) or [dippan.connect@gmail.com](mailto:dippan.connect@gmail.com)
+- 📫 How to reach me: [www.dippan.com.np](https://www.dippan.com.np) or [connect@dippan.com.np](mailto:connect@dippan.com.np)
 - ⚡ Fun fact: I enjoy designing logos and icons in my free time.
 
 ---
