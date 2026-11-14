@@ -42,10 +42,4 @@ I am a passionate Full-Stack Web Developer from India with a strong focus on bui
 
 ---
 
-### 📊 GitHub Stats
-
-![GitHub Streak](https://github-readme-streak-stats.herokuapp.com/?user=dippanbhusal&theme=dracula)
-![Kdippan's Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=Kdippan&theme=prussian&show_icons=true&hide_border=true&layout=compact)
-<p align="center">
-  <img src="https://github-profile-trophy.vercel.app/?username=dippanbhusal&theme=dracula&column=7"/>
-</p>
+<img width="845" height="440" alt="image" src="https://github.com/user-attachments/assets/e2b8fd76-b7c7-4320-b894-0816ecc220b1" />
